@@ -8,4 +8,4 @@ def grubler(m, N, J, dof_i):
     
     return dof
 
-print(grubler(3, 4, 4, [1, 1, 1, 1])) #out: 1
+print(grubler(3, 4, 4, [1, 1, 1, 1])) #out: 
